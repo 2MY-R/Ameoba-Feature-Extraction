@@ -9,6 +9,7 @@ This project was only done with my supervisors' help, support, and advice. Futhe
 
 ## Affiliations
 - [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)
+![SURE logo (transparent background)](https://github.com/user-attachments/assets/9e4a1079-bdeb-4edd-9490-f6caa0fbf6ee)
 
 ## Contents
 - [Abstract](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#abstract)
