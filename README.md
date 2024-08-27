@@ -5,7 +5,7 @@
 - **Supervisor:** Ashley Cadby
 - **Co-Supervisors:** Rebecca Betts, Olga Chambers
 
-This project was only done with my supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation to build off and collaborate with to support the whole research team as a whole, as such much of the code I am presenting has been previously written by Olga and Rebecca, which I have used as a stepping stone to add more contribution to the broader project.
+This project was only done with my supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
 
 ## Contents
 - [Abstract](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#abstract)
