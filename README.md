@@ -5,10 +5,11 @@
 - **Supervisor:** Ashley Cadby
 - **Co-Supervisors:** Rebecca Betts, Olga Chambers
 
-This project was only done with my supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
+This project was only done with my supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off of and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
 
 ## Affiliations
 - [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)
+- [SURE Scheme](https://students.sheffield.ac.uk/sure)
 ![SURE logo (transparent background)](https://github.com/user-attachments/assets/9e4a1079-bdeb-4edd-9490-f6caa0fbf6ee)
 
 ## Contents
