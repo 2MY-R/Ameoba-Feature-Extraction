@@ -5,5 +5,7 @@
 ## Abstract
 ## Introduction
 ## Methodology
+### Segmentation
+### Feature Extraction
 ## Results
 ## Discussion/Conclusion
