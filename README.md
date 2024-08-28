@@ -28,7 +28,7 @@ Through this research, we seek to establish a framework for understanding the un
 &nbsp; This section presents the process we have developed to analyse microscopy images taken in phase-contrast to capture the spatial, temporal, and morphological features of amoebas frame by frame. The procedure is better described in two sections, covering the phase-contrast image segmentation and the post-segmentation processing of these images to generate structured datasets of features which can be used for further research and machine learning models.<br>
   
 ### Segmentation
-Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. 
+Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [segmentation](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a small subset of 13 frames was used to prove a concept for the feature extraction process. 
 
 ### Feature Extraction
 ## Results
