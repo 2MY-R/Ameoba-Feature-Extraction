@@ -5,7 +5,7 @@
 - **Supervisor:** Ashley Cadby
 - **Co-Supervisors:** Rebecca Betts, Olga Chambers
 
-This project could have only been done with my supervisor/co-supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off of and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
+I could have only done this project with my supervisor/co-supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off of and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
 
 ## Affiliations
 - [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)<br><br>
@@ -28,7 +28,13 @@ Through this research, we seek to establish a framework for understanding the un
 &nbsp; This section presents the process we have developed to analyse microscopy images taken in phase-contrast to capture the spatial, temporal, and morphological features of amoebas frame by frame. The procedure is better described in two sections, covering the phase-contrast image segmentation and the post-segmentation processing of these images to generate structured datasets of features which can be used for further research and machine learning models.<br>
   
 ### Segmentation
-Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [segmentation](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a small subset of 13 frames was used to prove a concept for the feature extraction process. 
+Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [Segmentation.ipynb](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a subset of 13 frames was used to prove a concept for the feature extraction process. 
+<p>
+  <align=center>
+  <img src="https://github.com/user-attachments/assets/5e362955-3d2d-480f-8c79-93c351bf71ac" width="400" height="400"><be>
+<p>
+
+
 
 ### Feature Extraction
 ## Results
