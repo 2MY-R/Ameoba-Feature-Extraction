@@ -28,11 +28,15 @@ Through this research, we seek to establish a framework for understanding the un
 &nbsp; This section presents the process we have developed to analyse microscopy images taken in phase-contrast to capture the spatial, temporal, and morphological features of amoebas frame by frame. The procedure is better described in two sections, covering the phase-contrast image segmentation and the post-segmentation processing of these images to generate structured datasets of features which can be used for further research and machine learning models.<br>
   
 ### Segmentation
-Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [Segmentation.ipynb](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a subset of 13 frames was used to prove a concept for the feature extraction process. 
-<p>
-  <align=center>
-  <img src="https://github.com/user-attachments/assets/5e362955-3d2d-480f-8c79-93c351bf71ac" width="400" height="400"><be>
-<p>
+Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [Segmentation.ipynb](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a subset of 10 frames was used to prove a concept for the feature extraction process. 
+<p align = "center">
+  <img src="https://github.com/user-attachments/assets/5e362955-3d2d-480f-8c79-93c351bf71ac" width="400" height="400">
+</p>
+<p align="center">
+    Figure: Shows how the network gets better during training at reconstructing <br>
+    the digit 2 in the MNIST dataset.
+</p>
+
 
 
 
