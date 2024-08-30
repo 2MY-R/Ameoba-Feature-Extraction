@@ -3,7 +3,7 @@
 ## Contributions 
 - **Author**: Toumai Rouse
 - **Supervisor:** Ashley Cadby
-- **Co-Supervisors:** Rebecca Betts, Olga Chambers
+- **Co-Supervisors:** Rebecca Betts, Olga Chambers [f](#Figure-3)
 
 I could have only done this project with my supervisor/co-supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off of and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
 
@@ -46,10 +46,10 @@ Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine
 </p>
 
 ### Feature Extraction
-&nbsp; The next step in this process is to extract the amoeba's spatial, temporal and morphological features in the phase-contrast images. This process begins using the newly created segmented masks to classify and document each amoeba across all the frames. The tracking process is carried out in [Tracking.ipynb](Tracking.ipynb), which was cleverly written by Rebecca Betts and uses two other frequently called upon PY files ([utils.py](utils.py) and [mask_funcs.py](mask_funcs.py)) containing practical methods used throughout the rest of the project. Tracking the amoeba can also be visualised, as shown in [Figure 3](0000.jpg). Combining the masks and their tracked progression through each frame allows us to begin analysing the masks in and between frames and collect/store the features of amoeba in pandas data frames. The extraction process is executed by [file]
+&nbsp; The next step in this process is to extract the amoeba's spatial, temporal and morphological features in the phase-contrast images. This process begins using the newly created segmented masks to classify and document each amoeba across all the frames. The tracking process is carried out in [Tracking.ipynb](Tracking.ipynb), which was cleverly written by Rebecca Betts and uses two other frequently called upon PY files ([utils.py](utils.py) and [mask_funcs.py](mask_funcs.py)) containing practical methods used throughout the rest of the project. Tracking the amoeba can also be visualised, as shown in [Figure 3](#Figure-3). Combining the masks and their tracked progression through each frame allows us to begin analysing the masks in and between frames and collect/store the features of amoeba in pandas data frames. The extraction process is executed by [file]
 
 
-<p align = "center">
+<p align = "center" id='Figure-3'>
   <img src="https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/21f1381981a8c636482a8c28198747ccbc119122/show%20tracks/0000.jpg" width="400" height="400">
 </p>
 <p align="center">
