@@ -16,9 +16,9 @@ I could have only done this project with my supervisor/co-supervisors' help, sup
 ## Contents
 - [Abstract](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#abstract)
 - [Introduction](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#introduction)
-- [Methodolgy]
-  + [Segmentation]
-  + [Feature Extraction]
+- [Methodolgy](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#methodology)
+  + [Segmentation](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#segmentation)
+  + [Feature Extraction](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#feature_extraction)
 - [Results]
 - [Discussion/Conclusion]   
 ## Abstract
