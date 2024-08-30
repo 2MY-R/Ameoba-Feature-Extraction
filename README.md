@@ -58,6 +58,17 @@ The next step in this process is to extract the amoeba's spatial, temporal and m
 </p>
 
 ## Results
-&nbsp; The project has yielded several positive outcomes for the research team I was a part of. My contribution now has streamlined the process of analysing raw phase-contrast images using segmentation and feature extraction. Furthermore, I have expanded upon feature extraction, increasing the number of features being collected/stored by implementing SciPy. I have also begun utilising pandas data frames and nested dictionaries to engineer the extracted data more efficiently. Finally, I improved the data cleaning process to output a directory of only viable cells that can be meaningfully tracked for extended periods. These datasets can be used readily for research and testing going forward. 
+&nbsp; The project has yielded several positive outcomes for the research team I was a part of. My contribution now has streamlined the process of analysing raw phase-contrast images using segmentation and feature extraction. Furthermore, I have expanded upon feature extraction, increasing the number of features being collected/stored by implementing SciPy. I have also begun utilising pandas data frames and nested dictionaries to engineer the extracted data more efficiently. Finally, I improved the data cleaning process to output a directory of only viable cells that can be meaningfully tracked for extended periods. These datasets can be used readily for research and testing going forward.<br><br>
+The combined use of the programs allows the collection of amoebas:<br><br>
+- Area
+- Speed
+- Perimeter
+- x coordinate
+- y coordinate
+- Eccentricity (How elliptical the amoeba is 1 being a circle)
+- Orientation
+- Major-axis
+- Minor-axis<br><br>
+Plots of the most relevant features can be seen in [feature_plots](feature_plots), and [Figure 4](#Figure-4) is an example of one of these plots.
 
 ## Discussion/Conclusion
