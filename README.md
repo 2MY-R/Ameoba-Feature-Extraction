@@ -11,7 +11,7 @@ I could have only done this project with my supervisor/co-supervisors' help, sup
 - [School of Mathematical and Physical Sciences](https://www.sheffield.ac.uk/mps)<br><br>
 <img src="https://github.com/user-attachments/assets/7001dc4f-61dd-4629-8bb3-64960ae3bd5f" width="300" height="100"><br><br>
 - [SURE Scheme](https://students.sheffield.ac.uk/sure)<br><br>
-<img src="https://github.com/user-attachments/assets/9e4a1079-bdeb-4edd-9490-f6caa0fbf6ee" width="250" height="100"><br>
+<img src="https://github.com/user-attachments/assets/9e4a1079-bdeb-4edd-9490-f6caa0fbf6ee" width="250" height="125"><br>
 
 ## Contents
 - [Abstract](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#abstract)
@@ -80,5 +80,13 @@ The combined use of the programs allows the collection of amoebas:<br><br>
 
 ## Discussion/Conclusion
 &nbsp; In Conclusion, There are several ways the code demonstrated can be improved upon, as well as a plethora of new projects which can stem from it.<br><br>
-The next step which could be taken to improve the code is to find an improved relation between the computational units produced by the feature extraction program to give a real-world meaning to their output such that researchers in the biological and medical fields can more readily work with the data. Furthermore, updating the tracking application to 'remember' cells as they drift on and off screen would provide a more robust dataset of viable cells. However, this is a minor issue due to the generally slow nature of cells; this would allow for more reliable data capture at the edges of frames.  
+The next step which could be taken to improve the code is to find an improved relation between the computational units produced by the feature extraction program to give a real-world meaning to their output such that researchers in the biological and medical fields can more readily work with the data. Furthermore, updating the tracking application to 'remember' cells as they drift on and off screen would provide a more robust dataset of viable cells. However, this is a minor issue due to the generally slow nature of cells; this would allow for more reliable data capture at the edges of frames.<br><br>
+
+<img src ="https://github.com/user-attachments/assets/7001dc4f-61dd-4629-8bb3-64960ae3bd5f" width="300" height="100">
+<img src ="https://github.com/user-attachments/assets/9e4a1079-bdeb-4edd-9490-f6caa0fbf6ee" width="250" height="125">
+
+
+
+
+
 
