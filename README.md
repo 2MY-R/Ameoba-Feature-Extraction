@@ -3,7 +3,7 @@
 ## Contributions 
 - **Author**: Toumai Rouse
 - **Supervisor:** Ashley Cadby
-- **Co-Supervisors:** Rebecca Betts, Olga Chambers [f](#Figure-3)
+- **Co-Supervisors:** Rebecca Betts, Olga Chambers
 
 I could have only done this project with my supervisor/co-supervisors' help, support, and advice. Futhermore, I was provided with a solid foundation of code to build off of and collaborate with to support the whole research team; as Olga and Rebecca have previously written, much of the code I am presenting. I have used their code and advice as a stepping stone to add my contribution to the broader project.
 
