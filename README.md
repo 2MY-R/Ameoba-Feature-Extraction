@@ -46,7 +46,7 @@ Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine
 </p>
 
 ### Feature Extraction
-&nbsp; The next step in this process is to extract the amoeba's spatial, temporal and morphological features in the phase-contrast images. This process begins using the newly created segmented masks to classify and document each amoeba across all the frames. The tracking process is carried out in [file], which was cleverly written by Rebecca Betts and uses two other frequently called upon PY files ([utils.py](utils.py) and [mask_funcs.py](mask_funcs.py)) containing practical methods used throughout the rest of the project. Tracking the amoeba can also be visualised, as shown in Figure 3. Continuing, the combinations of the masks and their tracked progression through each frame 
+&nbsp; The next step in this process is to extract the amoeba's spatial, temporal and morphological features in the phase-contrast images. This process begins using the newly created segmented masks to classify and document each amoeba across all the frames. The tracking process is carried out in [file], which was cleverly written by Rebecca Betts and uses two other frequently called upon PY files ([utils.py](utils.py) and [mask_funcs.py](mask_funcs.py)) containing practical methods used throughout the rest of the project. Tracking the amoeba can also be visualised, as shown in Figure 3. Continuing to combine the masks and their tracked progression through each frame allows us to begin analysing the masks in and between frames and collect/store the features of amoeba in pandas data frames. The extraction process is executed by [file]
 
 ## Results
 ## Discussion/Conclusion
