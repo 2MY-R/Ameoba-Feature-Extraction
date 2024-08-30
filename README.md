@@ -33,8 +33,8 @@ Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine
   <img src="https://github.com/user-attachments/assets/5e362955-3d2d-480f-8c79-93c351bf71ac" width="400" height="400">
 </p>
 <p align="center">
-    Figure: Shows how the network gets better during training at reconstructing <br>
-    the digit 2 in the MNIST dataset.
+    <strong>Figure 1:</strong> Shows an example of the images taken in phase-contrast<br>
+                of ameobe and yeast.
 </p>
 
 
