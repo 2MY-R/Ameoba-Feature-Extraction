@@ -34,8 +34,17 @@ Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine
 </p>
 <p align="center">
     <strong>Figure 1:</strong> Shows an example of the images taken in phase-contrast<br>
-                of ameobe and yeast.
+                of amoeba and yeast.
 </p>
+
+<p align = "center">
+  <img src="https://github.com/user-attachments/assets/8e21c6c3-238b-46e4-a10e-b1c0e26e3b23" width="400" height="400">
+</p>
+<p align="center">
+    <strong>Figure 1:</strong> Shows an example of the images taken in phase-contrast<br>
+                of amoeba and yeast.
+</p>
+
 
 
 
