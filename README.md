@@ -69,7 +69,7 @@ The combined use of the programs allows the collection of amoebas:<br><br>
 - Orientation
 - Major-axis
 - Minor-axis<br><br>
-[feature_plots](feature_plots) shows plots of the most relevant features for each cell, and [Figure 4](#Figure-4) is an example of one of these plots.
+[feature_plots](feature_plots) shows plots of the most relevant features for each cell, and [Figure 4](#Figure-4) is an example of one of these plots. The full tables of recorded values for each cell can be found in [final_cells](final_cells).
 <p align = "center" id='Figure-4'>
   <img src="https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/ad4c6eeeac8e0e44f4ca660d425ca521dd537222/feature_plots/cell_1.png" width="600" height="600">
 </p>
@@ -78,5 +78,7 @@ The combined use of the programs allows the collection of amoebas:<br><br>
                 against time.
 </p>
 
-
 ## Discussion/Conclusion
+&nbsp; In Conclusion, There are several ways the code demonstrated can be improved upon, as well as a plethora of new projects which can stem from it.<br><br>
+The next step which could be taken to improve the code is to find an improved relation between the computational units produced by the feature extraction program to give a real-world meaning to their output such that researchers in the biological and medical fields can more readily work with the data. Furthermore, updating the tracking application to 'remember' cells as they drift on and off screen would provide a more robust dataset of viable cells. However, this is a minor issue due to the generally slow nature of cells; this would allow for more reliable data capture at the edges of frames.  
+
