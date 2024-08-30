@@ -46,7 +46,16 @@ Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine
 </p>
 
 ### Feature Extraction
-&nbsp; The next step in this process is to extract the amoeba's spatial, temporal and morphological features in the phase-contrast images. This process begins using the newly created segmented masks to classify and document each amoeba across all the frames. The tracking process is carried out in [Tracking.ipynb](Tracking.ipynb), which was cleverly written by Rebecca Betts and uses two other frequently called upon PY files ([utils.py](utils.py) and [mask_funcs.py](mask_funcs.py)) containing practical methods used throughout the rest of the project. Tracking the amoeba can also be visualised, as shown in Figure 3. Continuing to combine the masks and their tracked progression through each frame allows us to begin analysing the masks in and between frames and collect/store the features of amoeba in pandas data frames. The extraction process is executed by [file]
+&nbsp; The next step in this process is to extract the amoeba's spatial, temporal and morphological features in the phase-contrast images. This process begins using the newly created segmented masks to classify and document each amoeba across all the frames. The tracking process is carried out in [Tracking.ipynb](Tracking.ipynb), which was cleverly written by Rebecca Betts and uses two other frequently called upon PY files ([utils.py](utils.py) and [mask_funcs.py](mask_funcs.py)) containing practical methods used throughout the rest of the project. Tracking the amoeba can also be visualised, as shown in [Figure 3](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#figure3). Combining the masks and their tracked progression through each frame allows us to begin analysing the masks in and between frames and collect/store the features of amoeba in pandas data frames. The extraction process is executed by [file]
+
+
+<p align = "center">
+  <img src="https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/21f1381981a8c636482a8c28198747ccbc119122/show%20tracks/0000.jpg" width="400" height="400">
+</p>
+<p align="center">
+    <strong>Figure 3:</strong> An example of the classified and tracked amoeba overlayed<br>
+                the phase-contrast image.
+</p
 
 ## Results
 ## Discussion/Conclusion
