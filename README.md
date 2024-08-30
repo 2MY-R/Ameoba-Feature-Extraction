@@ -28,7 +28,7 @@ Through this research, we seek to establish a framework for understanding the un
 &nbsp; This section presents the process we have developed to analyse microscopy images taken in phase-contrast to capture the spatial, temporal, and morphological features of amoebas frame by frame. The procedure is better described in two sections, covering the phase-contrast image segmentation and the post-segmentation processing of these images to generate structured datasets of features which can be used for further research and machine learning models.<br>
   
 ### Segmentation
-Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [Segmentation.ipynb](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a subset of 10 frames was used to prove a concept for the feature extraction process. 
+Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine vision model was used to segment the phase-contrast images. The model was trained and fine-tuned on a dataset of annotated images, classifying amoebas and yeast. The model was saved as a model config file used in [Segmentation.ipynb](Segmentation.ipynb) to segment PNG images of amoebas and yeast. For this example, a subset of 10 frames was used to prove a concept for the feature extraction process. Ameoba and yeast were individually segmented using the trained model and stored separately. In this instance, only the amoeba was required. As such, the TIF files folder has been shared and can be viewed using software such as ImageJ. The frames and pre and post-segmentation processing can be seen in Figures 1 and 2, respectively. The choice to use a trained segmentation model over an image processing program such as OTSU is because of the usual and complex shapes amoeba can be found in from frame to frame; therefore, utilising an AI model to segment the images yields a higher level of accuracy in identifying amoeba over a high number of frames.  
 <p align = "center">
   <img src="https://github.com/user-attachments/assets/5e362955-3d2d-480f-8c79-93c351bf71ac" width="400" height="400">
 </p>
@@ -41,8 +41,8 @@ Facebook's [Dectectron2](https://github.com/facebookresearch/detectron2) machine
   <img src="https://github.com/user-attachments/assets/8e21c6c3-238b-46e4-a10e-b1c0e26e3b23" width="400" height="400">
 </p>
 <p align="center">
-    <strong>Figure 1:</strong> Shows an example of the images taken in phase-contrast<br>
-                of amoeba and yeast.
+    <strong>Figure 2:</strong> A screenshot of a segmented frame opened using Imagej <br>
+                of amoeba and yeast in grey and white, respectively.
 </p>
 
 
