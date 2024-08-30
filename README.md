@@ -69,6 +69,14 @@ The combined use of the programs allows the collection of amoebas:<br><br>
 - Orientation
 - Major-axis
 - Minor-axis<br><br>
-Plots of the most relevant features can be seen in [feature_plots](feature_plots), and [Figure 4](#Figure-4) is an example of one of these plots.
+[feature_plots](feature_plots) shows plots of the most relevant features for each cell, and [Figure 4](#Figure-4) is an example of one of these plots.
+<p align = "center" id='Figure-4'>
+  <img src="https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/ad4c6eeeac8e0e44f4ca660d425ca521dd537222/feature_plots/cell_1.png" width="600" height="600">
+</p>
+<p align="center">
+    <strong>Figure 4:</strong> An example of the relevant plots for each ameoba<br>
+                against time.
+</p>
+
 
 ## Discussion/Conclusion
