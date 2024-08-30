@@ -20,7 +20,7 @@ I could have only done this project with my supervisor/co-supervisors' help, sup
   + [Segmentation](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#segmentation)
   + [Feature Extraction](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#feature-extraction)
 - [Results](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#results)
-- [Discussion/Conclusion](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.m#Discussion/conclusion)  
+- [Discussion/Conclusion](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.m#Discussion&conclusion)  
 ## Abstract
 
 **How can artificial intelligence accelerate our understanding of rare, critical biological events?** Due to their infrequent occurrence, rare biological events remain primarily uncharacterised, often pivotal in disease progression or immune response. To bridge this knowledge gap, we propose a machine learning-driven approach to systematically analysing vast microscopy datasets. By leveraging advanced computer vision techniques, we aim to identify and quantify these elusive biological phenomena with unprecedented efficiency.<br><br>
@@ -84,7 +84,7 @@ The combined use of the programs allows the collection of amoebas:<br><br>
                 against time.
 </p>
 
-## Discussion/Conclusion
+## Discussion&Conclusion
 &nbsp; In Conclusion, There are several ways the code demonstrated can be improved upon, as well as a plethora of new projects which can stem from it. This project could be used within many academic fields and industries to provide deeper insight into how cells behave and strengthen the growing perception of machine vision at its forefront.<br><br>
 The next step which could be taken to improve the code is to find an improved relation between the computational units produced by the feature extraction program to give real-world meaning to their output such that researchers in the biological and medical fields can more readily work with the data. Furthermore, updating the tracking application to 'remember' cells as they drift on and off screen would provide a more robust dataset of viable cells. However, this is a minor issue due to the generally slow nature of cells; this would allow for more reliable data capture at the edges of frames.<br><br>
 In the future, using the procedure discussed in this project over a large number of cells to generate big datasets, the following data can be used by machine learning models to begin behavioural prediction of the amoeba. Futhermore features analysing the interactions between amoeba in yeast, such as a threshold proximate used to flag specific interactions, could yield a further expanded dataset and another dimension to consider for use in machine learning and neural networks.<br><br>
