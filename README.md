@@ -20,7 +20,7 @@ I could have only done this project with my supervisor/co-supervisors' help, sup
   + [Segmentation](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#segmentation)
   + [Feature Extraction](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#feature-extraction)
 - [Results](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.md#results)
-- [Discussion/Conclusion](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.m#Discussion&conclusion)  
+- [Discussion&Conclusion](https://github.com/2MY-R/Ameoba-Feature-Extraction/blob/main/README.m#Discussion&conclusion)  
 ## Abstract
 
 **How can artificial intelligence accelerate our understanding of rare, critical biological events?** Due to their infrequent occurrence, rare biological events remain primarily uncharacterised, often pivotal in disease progression or immune response. To bridge this knowledge gap, we propose a machine learning-driven approach to systematically analysing vast microscopy datasets. By leveraging advanced computer vision techniques, we aim to identify and quantify these elusive biological phenomena with unprecedented efficiency.<br><br>
