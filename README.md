@@ -1,4 +1,4 @@
-# AI Driven discovery; Rare Celluar Behaviour
+# AI Driven Discovery; Rare Celluar Behaviour
 
 ## Contributions 
 - **Author**: Toumai Rouse
